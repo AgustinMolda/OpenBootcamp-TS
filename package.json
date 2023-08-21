@@ -1,0 +1,16 @@
+{
+  "name": "openbootcamp-ts",
+  "version": "1.0.0",
+  "description": "git respository OpenBootcamp-TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "demo"
+  ],
+  "author": "Agsutin Moldavsky",
+  "license": "ISC"
+}
